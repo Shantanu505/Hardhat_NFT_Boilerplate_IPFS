@@ -1,0 +1,20 @@
+{
+  "name": "hardhat-project",
+  "devDependencies": {
+    "@babel/cli": "^7.21.0",
+    "@babel/core": "^7.21.4",
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "hardhat": "^2.14.0"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.8.3",
+    "@pinata/sdk": "^2.1.0",
+    "axios": "^1.3.5",
+    "dotenv": "^16.0.3",
+    "ethers": "^5.7.2",
+    "form-data": "^4.0.0",
+    "fs": "^0.0.1-security",
+    "ipfs-http-client": "^60.0.0",
+    "web3": "^1.9.0"
+  }
+}
